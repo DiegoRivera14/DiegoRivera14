@@ -41,7 +41,7 @@ Soy árbitro de balonmano de categoría nacional: tomar decisiones rápidas bajo
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-Diegorivera14@outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:Diegorivera14@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Rivera%20Senra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rivera-senra-956336240/) [![Email](https://img.shields.io/badge/Email-Diegorivera14@outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:Diegorivera14@outlook.com)
 
 <!--
 Contenido anterior oculto (no se muestra en el perfil). Se puede recuperar quitando este comentario.
