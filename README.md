@@ -24,6 +24,7 @@ Aplicaciones pequeñas en HTML, CSS y JavaScript sin librerías, cada una con su
 | [Conversor de temperatura](https://github.com/DiegoRivera14/conversor-temperatura) | Conversión en tiempo real y validación de datos | [Abrir](https://diegorivera14.github.io/conversor-temperatura/) |
 | [Contador de palabras](https://github.com/DiegoRivera14/contador-palabras) | Expresiones regulares Unicode y análisis de texto | [Abrir](https://diegorivera14.github.io/contador-palabras/) |
 | [Generador de contraseñas](https://github.com/DiegoRivera14/generador-contrasenas) | Aleatoriedad criptográfica (`crypto.getRandomValues`) | [Abrir](https://diegorivera14.github.io/generador-contrasenas/) |
+| [Adivina el número](https://github.com/DiegoRivera14/adivina-numero) | Lógica de juego, validación y récords con `localStorage` | [Abrir](https://diegorivera14.github.io/adivina-numero/) |
 
 ## 💻 Tecnologías
 
